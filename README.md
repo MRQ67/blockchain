@@ -1,6 +1,6 @@
 # A Blockchain in Python
 
-a blockchain that will take **new transactions** create a **block**, the Chain's them with other previous blocks to create the **Blockchain**.
+a blockchain that will take **new transactions** create a **block**, then chain them with other previous blocks to create the **Blockchain**.
 
 It's a learning project to learn about how blockchain are created and maintained. 
 
